@@ -33,4 +33,4 @@ To design the user interface for Secrets, I employed Adobe Illustrator to create
 <li>If the user wishes to change their username or password, they can go to settings where they can change their information while keeping all their journals</li>
 </ul>
 <hr>
-<h1> Future Additions </h1>
+
