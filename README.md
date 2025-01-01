@@ -21,6 +21,7 @@ To design the user interface for Secrets, I utilized Adobe Illustrator's powerfu
 <br>
 <img src="/images/git artb2.JPG" alt="Alt text" title="Optional title">
 <img src="/images/hitbrd 3.JPG" alt="Alt text" title="Optional title">
+<img src="/images/FigmaModel.png" alt="Alt text" title="Optional title">
 <hr>
 
 
