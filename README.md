@@ -1,6 +1,6 @@
 # Secrets, A Journal Entry Website!
 <img src="/images/artbmain-23.png" alt="Alt text" title="Optional title">
-Secrets is a Journal Entry website that allows users to create &amp; store personal journals with customized covers. Users can create multiple journals, each with its own unique title. Entries are private and stored for later use and viewing. It's a great way to document one's thoughts, feelings and experiences. <a href = https://niahenry20.github.io/NiaHenry.github.io/> The website is now live and ready for the world to use, come and check it out! </a>
+Secrets is a Journal Entry website that allows users to create &amp; store personal journals with customized covers. Users can create multiple journals, each with its own unique title. Entries are private and stored for later use and viewing. It's a great way to document one's thoughts, feelings and experiences. <a href = https://niahenry20.github.io/SecretsSecuredJournal.github.io/> The website is now live and ready for the world to use, come and check it out! </a>
 
 <hr>
 <h1> How it was built </h1>
