@@ -4,7 +4,7 @@ Secrets is a Journal Entry website that allows users to create &amp; store perso
 
 <hr>
 <h1> How it was built </h1>
-The program was built using a combination of HTML, CSS, JavaScript, Node.js, MongoDB, Railway app and GitHub Pages. HTML provided the basic structure of the website, CSS was used to style the page and make it visually appealing, JavaScript was used to add interactivity and dynamic behavior to the website. Node.js was used to build the backend logic of the website and connect it to the front-end using Railway app. Railway app was utilized to manage my own APIs, it made it simple to connect to data sources, create endpoints, and access the data from anywhere in the world. MongoDB was used to store the information sent by the user in a secure place where it can be accessed at any time. Finally, I used GitHub Pages to host the website. The full list of everything used is below:
+The program was developed using a combination of HTML, CSS, JavaScript, Node.js, MongoDB, Railway, and GitHub Pages. HTML provided the foundational structure of the website, while CSS enhanced its appearance with visual styling. JavaScript introduced interactivity and dynamic features to the user experience. Node.js powered the backend logic, enabling seamless integration with the front end via Railway. Railway was instrumental in managing APIs, simplifying the process of connecting to data sources, creating endpoints, and accessing data globally. MongoDB securely stored user-submitted information, ensuring it could be retrieved at any time. Finally, GitHub Pages was used to host the website. Below is a comprehensive list of all the technologies utilized:
 <ul>
 <li>Javascript</li>
 <li>Nodejs</li>
@@ -16,7 +16,8 @@ The program was built using a combination of HTML, CSS, JavaScript, Node.js, Mon
 </ul>
 <hr>
 <h1> The Design </h1>
-In the creation of the user interface design for Secrets, I leveraged the capabilities of Adobe Illustrator. I employed a combination of the software's tools, such as the pen tool, shapes, and color palettes, to produce a visually appealing and intuitive design. The end result was a streamlined, contemporary layout that effectively communicated the journaling concept while providing a seamless user experience. The UI design generated in Illustrator served as a blueprint for the website's front-end development, ensuring a consistent aesthetic and user experience throughout the platform.
+To design the user interface for Secrets, I utilized Adobe Illustrator's powerful features. By combining tools like the pen tool, shapes, and color palettes, I crafted a visually appealing and user-friendly design. The final product was a sleek, modern layout that effectively conveyed the journaling concept while delivering an intuitive user experience. The UI design created in Illustrator served as a blueprint for the website's front-end development, ensuring a cohesive aesthetic and a seamless user experience across the platform.
+
 <br>
 <img src="/images/git artb2.JPG" alt="Alt text" title="Optional title">
 <img src="/images/hitbrd 3.JPG" alt="Alt text" title="Optional title">
