@@ -20,6 +20,7 @@ In the creation of the user interface design for Secrets, I leveraged the capabi
 <br>
 <img src="/images/git artb2.JPG" alt="Alt text" title="Optional title">
 <img src="/images/hitbrd 3.JPG" alt="Alt text" title="Optional title">
+<img src="/images/FigmaModel.png"" alt="Alt text" title="Optional title">
 <hr>
 <h1> The Server side</h1>
 <a href = https://github.com/AbdelrahmanMerdan/Secrets-Server-Side> The repository to the back end of the project can be found here! </a>
