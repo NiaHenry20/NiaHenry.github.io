@@ -35,8 +35,8 @@ To design the user interface for Secrets, I utilized Adobe Illustrator's powerfu
 In the future, I am planning on adding new features to Secrets! Here are some of the ideas so far!
 <ul>
 
-<li> A page customization option where the user can pick from different themes in order to change the colors of each page.</li>
-<li>An edit button where the user can make quick changes to their entries.</li>
+<li> A page customization option where the user can design theor own pick themes in order to personlize each page.</li>
+<li>A personalized character selection button allows users to choose their own character and make edits specific to the selected persona..</li>
 <li> A share option where users can send entries to others on the site.</li>
 
 </ul>
