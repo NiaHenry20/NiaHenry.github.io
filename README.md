@@ -21,11 +21,7 @@ In the creation of the user interface design for Secrets, I leveraged the capabi
 <img src="/images/git artb2.JPG" alt="Alt text" title="Optional title">
 <img src="/images/hitbrd 3.JPG" alt="Alt text" title="Optional title">
 <hr>
-<h1> The Server side</h1>
-<a href = https://github.com/AbdelrahmanMerdan/Secrets-Server-Side> The repository to the back end of the project can be found here! </a>
-<hr>
-<h1> Features </h1>
-<ul>
+
 
 <li>Each user can signup to the website with their own unique username. </li>
 <li>The user can create journal entries and customize each entry with a cover of their choosing.</li>
