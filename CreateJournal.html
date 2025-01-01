@@ -1,0 +1,139 @@
+<html>
+
+<head>
+<title> Secrets </title>
+<link rel="stylesheet" href="css/CreateJournalcss.css">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="js/Client_side.js"></script>
+</head>
+
+<body>
+
+
+ 
+    <div class="top"  id = "top">
+        <span class = "threeline" onclick="openBar()">&#9776; </span>   
+        
+        <div id = "logomove"> 
+        <span class="logo">  <img class="loginpiclogo" src="https://i.imgur.com/m9X9zu6.png" alt="IMG">   </span>
+        </div>
+
+        <div class="topRight">
+            
+          <a class="Home" href="Project.html">Home</a>
+          <a href="loginpage.html">Log Out</a>
+         
+        </div>
+    </div>
+
+    
+    
+    <div id="myBar" class="contentBarnav">
+        <a class="close" onclick="closeBar()">&times;</a>
+        <a href= "CreateJournal.html">Create Journal</a></li>
+        &nbsp;
+
+        <a href= "mysetting.html">Settings</a></li>
+        &nbsp;
+        <a href=#></a></li>
+    </div>
+
+    <div id="mainContent">
+        <div id="createj">
+            
+            <div class="container">
+                    <br>
+                    <br>
+                <div id="inputs">
+                <input id= "Reflectiontitle" type="text" value="Reflection title">
+                <br>
+                
+              
+                <textarea name="Journalentry" id="journalentry" cols="50" rows="18" > "Type your journal entry here"</textarea>
+            
+                <br>
+                
+                <input id = "Keypoints" type="text" value="Key Point">
+                <br>
+               
+                <textarea name="authornote" id="authornote" cols="50" rows="8"> "Type the Authors note" </textarea>
+                </div>
+            
+                
+            
+        
+                <div id="bookcover">
+
+                    <div id = 'decoration'  class = 'column'>
+                        <img id = 'lock' src="https://i.imgur.com/F507FAu.png" alt="">
+                      
+                       </div>
+
+
+
+                    <div class="column">
+                    <img id = "paper" src="https://i.imgur.com/yHa5fxn.png" alt="cover">
+                    </div>
+
+                    <div class="column">
+                    <img id = "covers" src="https://i.imgur.com/OdqFX0P.png" alt="cover">
+                    </div>
+
+                    <br>
+                    <div id="column">
+                        <div id="bookcoveroption">
+                            
+                            <input class = "chck" type="checkbox" id ="red" name="red" value="red" onclick = uncheckbtns(this) onchange="changebookcover(this)" checked = true>
+                            
+                            
+                            <img id="imgopt" src="https://i.imgur.com/OdqFX0P.png" alt="">
+                            
+            
+                            <input class = "chck" type="checkbox" id ="blue" name="blue" value="blue" onclick = uncheckbtns(this)   onchange="changebookcover(this)">
+                            
+                            <img id="imgopt" src="https://i.imgur.com/EyFxKPO.png" alt="">
+                             
+                            <input class = "chck" type="checkbox" id ="yellow" name="yellow" value="yellow" onclick = uncheckbtns(this)  onchange="changebookcover(this)" >
+                            
+                            <img id="imgopt" src="https://i.imgur.com/2um356T.png" alt="">
+                            
+                            <input class = "chck" type="checkbox" id ="green" name="green" value="green" onclick = uncheckbtns(this)   onchange="changebookcover(this)">
+                            
+                            <img id="imgopt" src="https://i.imgur.com/TYhNJJC.png" alt="">
+                            
+                            
+                        </div>
+                    </div>
+
+                    <div id = 'decoration'  class = 'column'>
+                        <img id = 'pencil' src="https://i.imgur.com/1pKK0Kp.png" alt="">
+                      
+                       </div>
+                       
+                </div>
+                        
+                    
+                        
+            <div id = "read"></div>
+                </div>
+            
+                <button class="save" onclick="SubmitJ()">Submit</button>
+                
+                
+            
+            </div>
+
+            
+
+            
+
+            
+
+    </div>
+   
+
+</body>
+</html>
+
+
